@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AzureDocOCR": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
